@@ -1,10 +1,14 @@
 ﻿using DiscordRPC;
 using DiscordWOTMRPCS.Properties;
 using Newtonsoft.Json;
+using Squirrel;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Timers;
+using System.Windows.Forms;
+
+using Timer = System.Timers.Timer;
 
 namespace DiscordWOTM {
     public class RPCService {
@@ -47,6 +51,7 @@ namespace DiscordWOTM {
                 Settings.Default.word_list = wc.DownloadString("https://random-word-api.herokuapp.com/word?number=300&swear=1");
                 Settings.Default.Save();
                 word_list = JsonConvert.DeserializeObject<List<string>>(Settings.Default.word_list);
+                CheckForUpdate();
             }
             string word = word_list[0];
             Settings.Default.word_list = JsonConvert.SerializeObject(word_list);
@@ -101,6 +106,22 @@ namespace DiscordWOTM {
                 set_presence();
                 update_totaltime.Start();
                 client.Initialize();
+                CheckForUpdate();
+            }
+        }
+
+        private static async void CheckForUpdate() {
+            try {
+                using (var mgr = await UpdateManager.GitHubUpdateManager("https://github.com/SwatDoge/Discord-WOTM-RPC-Service")) {
+                    UpdateManager updateManager = mgr;
+                    var release = await mgr.UpdateApp();
+                }
+            }
+            catch (Exception ex) {
+                string message = ex.Message + Environment.NewLine;
+                if (ex.InnerException != null)
+                    message += ex.InnerException.Message;
+                MessageBox.Show(message);
             }
         }
 
