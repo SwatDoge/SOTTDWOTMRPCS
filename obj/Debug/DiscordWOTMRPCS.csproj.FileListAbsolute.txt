@@ -1,0 +1,17 @@
+C:\Users\Clemster\Desktop\Local repos\DiscordWOTMRPCS\bin\Debug\DiscordWOTMRPCS.exe.config
+C:\Users\Clemster\Desktop\Local repos\DiscordWOTMRPCS\bin\Debug\DiscordWOTMRPCS.exe
+C:\Users\Clemster\Desktop\Local repos\DiscordWOTMRPCS\bin\Debug\DiscordWOTMRPCS.pdb
+C:\Users\Clemster\Desktop\Local repos\DiscordWOTMRPCS\obj\Debug\DiscordWOTMRPCS.csprojAssemblyReference.cache
+C:\Users\Clemster\Desktop\Local repos\DiscordWOTMRPCS\obj\Debug\DiscordWOTMRPCS.Properties.Resources.resources
+C:\Users\Clemster\Desktop\Local repos\DiscordWOTMRPCS\obj\Debug\DiscordWOTMRPCS.csproj.GenerateResource.cache
+C:\Users\Clemster\Desktop\Local repos\DiscordWOTMRPCS\obj\Debug\DiscordWOTMRPCS.csproj.CoreCompileInputs.cache
+C:\Users\Clemster\Desktop\Local repos\DiscordWOTMRPCS\obj\Debug\DiscordWOTMRPCS.exe
+C:\Users\Clemster\Desktop\Local repos\DiscordWOTMRPCS\obj\Debug\DiscordWOTMRPCS.pdb
+C:\Users\Clemster\Desktop\Local repos\DiscordWOTMRPCS\bin\Debug\DiscordRPC.dll
+C:\Users\Clemster\Desktop\Local repos\DiscordWOTMRPCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Clemster\Desktop\Local repos\DiscordWOTMRPCS\bin\Debug\Topshelf.dll
+C:\Users\Clemster\Desktop\Local repos\DiscordWOTMRPCS\bin\Debug\DiscordRPC.pdb
+C:\Users\Clemster\Desktop\Local repos\DiscordWOTMRPCS\bin\Debug\DiscordRPC.xml
+C:\Users\Clemster\Desktop\Local repos\DiscordWOTMRPCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Clemster\Desktop\Local repos\DiscordWOTMRPCS\bin\Debug\Topshelf.xml
+C:\Users\Clemster\Desktop\Local repos\DiscordWOTMRPCS\obj\Debug\DiscordWOTMRPCS.csproj.CopyComplete
