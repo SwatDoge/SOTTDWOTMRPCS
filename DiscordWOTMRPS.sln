@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordWOTMRPS", "DiscordWOTMRPS.csproj", "{B84C18E7-6103-40A7-9776-2F30F74A33F1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DiscordWOTMRPS_Setup", "..\!RELEASES\DiscordWOTM\DiscordWOTMRPS_Setup\DiscordWOTMRPS_Setup.vdproj", "{59FD5070-E988-40B2-B1DD-73A0DA61EC6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B84C18E7-6103-40A7-9776-2F30F74A33F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B84C18E7-6103-40A7-9776-2F30F74A33F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B84C18E7-6103-40A7-9776-2F30F74A33F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B84C18E7-6103-40A7-9776-2F30F74A33F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59FD5070-E988-40B2-B1DD-73A0DA61EC6F}.Debug|Any CPU.ActiveCfg = Debug
+		{59FD5070-E988-40B2-B1DD-73A0DA61EC6F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6387FEFF-D78F-4E5D-A532-62F719AC7499}
+	EndGlobalSection
+EndGlobal

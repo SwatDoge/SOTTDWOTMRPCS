@@ -1,0 +1,13 @@
+C:\Users\Clemster\Desktop\Local repos\DiscordWOTMRPS\bin\Debug\DiscordWOTMRPS.exe.config
+C:\Users\Clemster\Desktop\Local repos\DiscordWOTMRPS\bin\Debug\DiscordWOTMRPS.exe
+C:\Users\Clemster\Desktop\Local repos\DiscordWOTMRPS\bin\Debug\DiscordWOTMRPS.pdb
+C:\Users\Clemster\Desktop\Local repos\DiscordWOTMRPS\bin\Debug\DiscordRPC.dll
+C:\Users\Clemster\Desktop\Local repos\DiscordWOTMRPS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Clemster\Desktop\Local repos\DiscordWOTMRPS\bin\Debug\DiscordRPC.pdb
+C:\Users\Clemster\Desktop\Local repos\DiscordWOTMRPS\bin\Debug\DiscordRPC.xml
+C:\Users\Clemster\Desktop\Local repos\DiscordWOTMRPS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Clemster\Desktop\Local repos\DiscordWOTMRPS\obj\Debug\DiscordWOTMRPS.csprojAssemblyReference.cache
+C:\Users\Clemster\Desktop\Local repos\DiscordWOTMRPS\obj\Debug\DiscordWOTMRPS.csproj.CoreCompileInputs.cache
+C:\Users\Clemster\Desktop\Local repos\DiscordWOTMRPS\obj\Debug\DiscordWOTMRPS.csproj.CopyComplete
+C:\Users\Clemster\Desktop\Local repos\DiscordWOTMRPS\obj\Debug\DiscordWOTMRPS.exe
+C:\Users\Clemster\Desktop\Local repos\DiscordWOTMRPS\obj\Debug\DiscordWOTMRPS.pdb
