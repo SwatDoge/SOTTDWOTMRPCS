@@ -56,14 +56,17 @@ namespace DiscordWOTMRPS {
         }
 
         private long get_word_count() {
+            return Settings.Default.word_count;
+        }
+
+        private void upcount() {
             Settings.Default.word_count++;
             Settings.Default.Save();
-            return Settings.Default.word_count;
         }
 
         private void set_presence() {
             Timestamps timestamp = new Timestamps() { Start = DateTime.UtcNow.Subtract(Settings.Default.total_time) };
-
+            upcount();
             client.SetPresence(new RichPresence()
             {
                 Details = get_random_word(),
@@ -80,7 +83,7 @@ namespace DiscordWOTMRPS {
         private static bool has_connection_to_internet() {
             try {
                 using (var wc = new System.Net.WebClient())
-                using (wc.OpenRead("https://discord.com/"))
+                using (wc.OpenRead("https://www.discord.com/"))
                     return true;
             }
             catch {

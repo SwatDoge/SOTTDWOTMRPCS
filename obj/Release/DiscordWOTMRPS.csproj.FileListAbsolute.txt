@@ -12,3 +12,17 @@ C:\Users\Clemster\Desktop\Local repos\DiscordWOTMRPS\obj\Release\DiscordWOTMRPS.
 C:\Users\Clemster\Desktop\Local repos\DiscordWOTMRPS\obj\Release\DiscordWOTMRPS.csproj.CopyComplete
 C:\Users\Clemster\Desktop\Local repos\DiscordWOTMRPS\obj\Release\DiscordWOTMRPS.exe
 C:\Users\Clemster\Desktop\Local repos\DiscordWOTMRPS\obj\Release\DiscordWOTMRPS.pdb
+C:\Users\Clemster\Desktop\Local repos\(C#) DiscordWOTMRPS\bin\Release\DiscordWOTMRPS.exe.config
+C:\Users\Clemster\Desktop\Local repos\(C#) DiscordWOTMRPS\bin\Release\DiscordWOTMRPS.exe
+C:\Users\Clemster\Desktop\Local repos\(C#) DiscordWOTMRPS\bin\Release\DiscordWOTMRPS.pdb
+C:\Users\Clemster\Desktop\Local repos\(C#) DiscordWOTMRPS\bin\Release\DiscordRPC.dll
+C:\Users\Clemster\Desktop\Local repos\(C#) DiscordWOTMRPS\bin\Release\Newtonsoft.Json.dll
+C:\Users\Clemster\Desktop\Local repos\(C#) DiscordWOTMRPS\bin\Release\DiscordRPC.pdb
+C:\Users\Clemster\Desktop\Local repos\(C#) DiscordWOTMRPS\bin\Release\DiscordRPC.xml
+C:\Users\Clemster\Desktop\Local repos\(C#) DiscordWOTMRPS\bin\Release\Newtonsoft.Json.xml
+C:\Users\Clemster\Desktop\Local repos\(C#) DiscordWOTMRPS\obj\Release\DiscordWOTMRPS.ProjectInstaller.resources
+C:\Users\Clemster\Desktop\Local repos\(C#) DiscordWOTMRPS\obj\Release\DiscordWOTMRPS.csproj.GenerateResource.cache
+C:\Users\Clemster\Desktop\Local repos\(C#) DiscordWOTMRPS\obj\Release\DiscordWOTMRPS.csproj.CoreCompileInputs.cache
+C:\Users\Clemster\Desktop\Local repos\(C#) DiscordWOTMRPS\obj\Release\DiscordWOTMRPS.csproj.CopyComplete
+C:\Users\Clemster\Desktop\Local repos\(C#) DiscordWOTMRPS\obj\Release\DiscordWOTMRPS.exe
+C:\Users\Clemster\Desktop\Local repos\(C#) DiscordWOTMRPS\obj\Release\DiscordWOTMRPS.pdb
